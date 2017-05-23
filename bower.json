@@ -16,7 +16,7 @@
         "buttons",
         "hollow"
     ],
-    "homepage": "https://github.com/gridi-style/gridi-style-hollow-buttons-colors-helpers",
+    "homepage": "https://github.com/gridi-framework/gridi-style-hollow-buttons-colors-helpers",
     "ignore": [
         "**/.*",
         "**/*.md",
